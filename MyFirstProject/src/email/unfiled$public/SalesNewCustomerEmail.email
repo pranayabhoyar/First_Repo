@@ -1,0 +1,13 @@
+{!Today}
+
+Dear {!Project_Description__c.Manager__c}
+
+New project is created in your project description object.
+
+Thank You.
+
+Sincerely,
+
+{!Project_Description__c.OwnerFullName}
+{!Organization.Name}
+{!User.Email}

@@ -1,0 +1,10 @@
+Dear {!Contact.FirstName},
+
+The big deal is created.
+
+
+We look forward to speaking with you soon.
+{!User_Name}
+{!User.Phone}
+{!User.Email}
+{!Organization.Name}
